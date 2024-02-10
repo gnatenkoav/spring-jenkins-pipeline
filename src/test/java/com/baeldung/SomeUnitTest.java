@@ -8,4 +8,9 @@ public class SomeUnitTest {
     public void init() {
         assertEquals(1, 1);
     }
+
+    @Test
+    public void newTest() {
+        assertEquals(true, false);
+    }
 }
