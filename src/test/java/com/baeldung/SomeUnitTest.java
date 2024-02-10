@@ -9,6 +9,7 @@ public class SomeUnitTest {
         assertEquals(1, 1);
     }
 
+    //new test
     @Test
     public void newTest() {
         assertEquals(true, false);
