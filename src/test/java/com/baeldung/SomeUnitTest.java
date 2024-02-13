@@ -12,6 +12,6 @@ public class SomeUnitTest {
     //new test
     @Test
     public void newTest() {
-        assertEquals(true, true);
+        assertEquals(true, false);
     }
 }
